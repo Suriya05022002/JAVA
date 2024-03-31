@@ -1,0 +1,23 @@
+Java Interview Questions and Answers 
+________________________________
+1. What is Java?
+Java is a high-level, class based object-oriented programming language that is widely used for
+developing a variety of applications, including web, desktop, and mobile applications.
+
+2. What is the difference between Java and JavaScript?
+Java and JavaScript are two different programming languages with different purposes.
+Java is used for building applications, java is mainly used for backend ,
+while JavaScript is a scripting language used for front end 
+or backend  interactivity to web pages.
+
+3. What is the main principle of Java programming?
+Java follows the principle of "write once, run anywhere", which means that Java
+code can be compiled into bytecode and executed on any platform that has a Java
+Virtual Machine (JVM).
+
+4. What are the main features of Java?
+Some of the main features of Java include platform independence, object-oriented
+programming, automatic memory management (garbage collection), and simple and secure
+
+5. What is a class in Java?
+In Java, a class is a blueprint or template for creating objects. 
