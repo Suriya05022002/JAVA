@@ -21,3 +21,27 @@ programming, automatic memory management (garbage collection), and simple and se
 
 5. What is a class in Java?
 In Java, a class is a blueprint or template for creating objects. 
+
+6. What is an object in Java?
+An object in Java is an instance of a class. It represents a specific entity or item that can
+have its own set of attributes and behaviors defined by its class.
+
+7. What is a method in Java?
+A method in Java is a block of code that performs a specific task. It can be called or
+invoked to execute its defined functionality.
+
+8. What is the difference between a class and an object?
+A class is a blueprint or template, while an object is an instance of that class. A class
+defines the structure and behavior of objects, while objects represent specific instances
+of the class.
+
+9. What is inheritance in Java?
+Inheritance is a mechanism in Java where a class can inherit properties and behaviors
+from another class. It allows for code reuse and creating a hierarchical relationship
+between classes.
+
+10. What are the types of inheritance in Java?
+Java supports single inheritance, where a class can inherit from only one superclass, and
+multiple inheritance through interfaces, where a class can implement multiple
+interfaces.
+
