@@ -43,5 +43,5 @@ between classes.
 10. What are the types of inheritance in Java?
 Java supports single inheritance, where a class can inherit from only one superclass, and
 multiple inheritance through interfaces, where a class can implement multiple
-interfaces.
+interfaces.extends keyword,parentchild relationship,code reuseability.
 
